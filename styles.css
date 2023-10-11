@@ -314,7 +314,7 @@
             padding-left: 0px;
             border: 2px solid  #510d0f;
             justify-content: center;
-            overflow: visible;
+            overflow: hidden;
             max-height: 440px;
         }
 
@@ -333,6 +333,7 @@
             color: #510d0f;
             text-align: center;
             margin-right: 20px;
+
         }
 
         .About p {
